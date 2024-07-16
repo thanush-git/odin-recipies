@@ -1,0 +1,54 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(242,239,229,1) 35%, rgba(227,225,217,1) 100%); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+
+.banner{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h2{
+    margin-top: 75px;
+    font-size: 22px;
+    
+}
+
+h3{
+    font-size: 15px;
+}
+
+li{
+    margin-top: 10px;
+}
+
+a{
+    color: rgb(9, 91, 214);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B4B4B8; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+p, li{
+    text-align: justify;
+    text-justify: auto;
+    margin-right: 500px;
+}
